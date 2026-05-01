@@ -1,8 +1,13 @@
+> **Status: Work in progress (R&D, evaluation window, private under 0SxD).**
+> This repository is staged for review only and remains under active
+> development. License terms in LICENSE govern; contents may move, change, or
+> be withdrawn. See LICENSE before any use.
+
 # README.md
 
 Compounding-learning operating system for iterative task workflows. Portable. Domain-agnostic core.
 
-Origin: Mercor Rubrics Correction project, captured 2026-04-21 after 4 tasks (2 approved, 2 submitted, 2 hard-fail-then-recovery cycles).
+Origin: evaluation platform Rubrics Correction project, captured 2026-04-21 after 4 tasks (2 approved, 2 submitted, 2 hard-fail-then-recovery cycles).
 
 ## what this is
 
